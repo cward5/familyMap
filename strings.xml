@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FamilyMap</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="host">Server Host:</string>
+    <string name="port">Server Port:</string>
+    <string name="log_in">Log in</string>
+    <string name="defaultEventButton">Select an event. Details will be shown here.</string>
+</resources>

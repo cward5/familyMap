@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:id="@+id/mapFragmentGroup">
+        <item
+            android:title="Search"
+            android:id="@+id/menuSearch"
+            app:showAsAction="ifRoom|withText"/>
+        <item
+            android:title="Filter"
+            android:id="@+id/menuFilter"
+            app:showAsAction="ifRoom"/>
+        <item
+            android:title="Settings"
+            android:id="@+id/menuSettings"
+            app:showAsAction="ifRoom"/>
+    </group>
+</menu>
